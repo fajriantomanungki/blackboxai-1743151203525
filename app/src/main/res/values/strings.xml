@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">Survey App</string>
+    <string name="welcome_message">Please answer all questions</string>
+    
+    <!-- Navigation -->
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="submit_button">Submit</string>
+    
+    <!-- Messages -->
+    <string name="submit_confirmation">Submit your answers?</string>
+    <string name="submit_success">Thank you for completing the survey!</string>
+    <string name="submit_error">Failed to submit. Answers saved locally.</string>
+    <string name="offline_message">Working offline. Answers will sync when connection is available.</string>
+    <string name="sync_in_progress">Syncing your answers...</string>
+    <string name="sync_complete">Answers successfully synced</string>
+    
+    <!-- Question Types -->
+    <string name="text_hint">Type your answer here</string>
+    <string name="single_select_prompt">Select one option</string>
+    <string name="multi_select_prompt">Select all that apply</string>
+    
+    <!-- Validation -->
+    <string name="required_field">This question is required</string>
+    <string name="min_selection">Please select at least %d options</string>
+    
+    <!-- Progress -->
+    <string name="progress_format">%d/%d</string>
+</resources>
